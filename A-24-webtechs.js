@@ -1,0 +1,1 @@
+exports.webtechswebtechs = ['HTML', 'CSS', 'Tailwind CSS', 'Bootstrap', 'JavaScript', 'React JS', 'Node JS', 'Mongo DB'];
